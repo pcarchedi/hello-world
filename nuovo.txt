@@ -11,4 +11,10 @@ yyyyyyyyyyyyyyyyyy
 zzzzzzzzzzzzzzzzzzzzzzzzzz
 
 
-REMOTO ----------------
+@@@@@@@@@@@@
+locale @@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@
+
+############
+REMOTO
+###########
