@@ -1,9 +1,6 @@
 ciao sono un file nuovo nuovo
 :-))
 
-
-AAAAAAAAAAAAAAAAAA
-
-BBBBBBBBBBB
-
-CCCC
+###########################
+cancellati e sostituiti
+#########################--
